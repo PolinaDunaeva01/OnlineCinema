@@ -1,1 +1,1 @@
-# OnlineCinema
+# OnlineCinema - учебный проект 
